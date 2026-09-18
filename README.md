@@ -48,16 +48,15 @@ GogyUp provides intelligent reading assistance right where students and employee
 ## Get Involved
 
 ### Employers
-Learn how GogyUp can support your workforce. [Demo your training documents](https://www.gogyup.com) with us today.
+Learn how GogyUp can support your workforce. [Demo your training documents](https://www.gogyup.com/employers) with us today.
 
 ### Learners
 Download GogyUp Reader for free:
-- [Apple App Store](https://apps.apple.com/)
-- [Google Play](https://play.google.com/)
-- [Chrome Extension](https://chrome.google.com/webstore/)
+- [Apple App Store](https://apps.apple.com/us/developer/gogyup/id1521528758)
+- [Google Play](https://play.google.com/store/apps/dev?id=6356225441181448806)
 
 ### Educators
-Interested in GogyUp Learning Support Suite for your students? [Apply to join our pre-release trial program](https://www.gogyup.com).
+Interested in GogyUp Learning Support Suite for your students? [Let's talk](https://www.gogyup.com/adult-learning).
 
 ---
 
